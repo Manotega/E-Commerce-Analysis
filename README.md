@@ -48,4 +48,3 @@ This segmentation enables prioritization of marketing actions according to the p
 - Design **cross-sell and up-sell strategies** to increase average customer value.  
 - Reactivate **at-risk customers** with targeted offers.  
 - Optimize marketing resources based on clear, data-driven segmentation.  
-
