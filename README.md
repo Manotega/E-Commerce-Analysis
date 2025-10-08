@@ -26,7 +26,7 @@ This repository contains a complete customer behavior analysis, using **Cohort A
 ### 2. RFM Analysis  
 - **Recency**: identified customers who purchased most recently.  
 - **Frequency**: measured the number of purchases per customer.  
-- **Monetary Value**: calculated the total spend per customer.  
+- **Monetization**: calculated the total spend per customer.  
 - Based on these metrics, customers were segmented into groups such as:  
   - **Loyal Customers**  
   - **High-Value Customers**  
